@@ -20,8 +20,10 @@ export function Navbar() {
   };
   return <header className="site-header">
     <div className="topbar"><div className="topbar-inner">
-      <Link className="brand" href="/" aria-label="Shopkart home"><span className="brand-word">shopkart<span>.</span></span><span className="brand-tagline">Explore <b>Plus</b> <i>✦</i></span></Link>
-      <form className="search-form" onSubmit={submitSearch}><Search size={19} /><input aria-label="Search products" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search for products, brands and more" /><button type="submit">Search</button></form>
+<Link className="brand" href="/" aria-label="Shopkart home">
+  <span className="brand-word">shopkart<span>.</span></span>
+  <span className="brand-tagline">Your World, Your Shopping <i>✦</i></span>
+</Link>      <form className="search-form" onSubmit={submitSearch}><Search size={19} /><input aria-label="Search products" value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Search for products, brands and more" /><button type="submit">Search</button></form>
       <nav className="desktop-actions" aria-label="Main navigation">
         <Link className="account-link" href="/orders"><UserRound size={18} /><span>My Account</span></Link>
         <Link className="seller-link" href="/about"><Store size={18} /><span>Become a Seller</span></Link>
