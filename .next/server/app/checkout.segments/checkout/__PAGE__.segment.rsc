@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/3zyhy2gyovt2t.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/_next/static/chunks/05y_d9pkgqb6o.js"
+b:I[27020,["$3","$a"],"CheckoutView"]
+c:I[97367,["$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3"],"$12"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$Lb",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/05y_d9pkgqb6o.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$8"}}]]
+1:[["children",{"s":"checkout","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Shopkart — Everyday discoveries, delivered"}],["$","meta","1",{"name":"description","content":"Find the things you love, all in one place. Shop mobiles, electronics, fashion, home and more."}]]}]}],null]}],null]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"Q7S9zl9JLclK3c1WSOwYO"}
+e:null
+16:true
+8:300
+8:C
+15:0
+6:"$undefined"
+14:"$undefined"
+f:"$undefined"

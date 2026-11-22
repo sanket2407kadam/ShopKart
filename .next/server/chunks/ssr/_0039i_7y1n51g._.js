@@ -1,0 +1,3 @@
+module.exports=[90198,a=>{"use strict";var b=a.i(87924),c=a.i(38363);a.s(["f",0,function({products:a,compact:d=!1}){return 0===a.length?(0,b.jsxs)("div",{className:"empty-results",children:[(0,b.jsx)("span",{children:"✦"}),(0,b.jsx)("h3",{children:"No products found"}),(0,b.jsx)("p",{children:"Try changing your search or filters to find your next favourite."})]}):(0,b.jsx)("div",{className:`product-grid${d?" compact-grid":""}`,children:a.map(a=>(0,b.jsx)(c.ProductCard,{product:a,compact:d},a.id))})}])},33354,(a,b,c)=>{"use strict";c._=function(a){return a&&a.__esModule?a:{default:a}}}];
+
+//# sourceMappingURL=_0039i_7y1n51g._.js.map

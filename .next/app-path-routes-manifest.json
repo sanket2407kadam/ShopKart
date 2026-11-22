@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/cart/page": "/cart",
+  "/categories/page": "/categories",
+  "/checkout/page": "/checkout",
+  "/contact/page": "/contact",
+  "/order-confirmation/page": "/order-confirmation",
+  "/orders/page": "/orders",
+  "/page": "/",
+  "/products/[id]/page": "/products/[id]",
+  "/products/page": "/products",
+  "/recently-viewed/page": "/recently-viewed",
+  "/wishlist/page": "/wishlist"
+}
